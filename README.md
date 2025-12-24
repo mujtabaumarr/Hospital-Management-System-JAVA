@@ -6,8 +6,7 @@ Java Project for a health mangement system and dashboard with email and pdf capa
 Developers:
 Syed Ahmad Ali Shah 500808
 Mujtaba Umar 510196
-Hamza Memon 500966
-Ubaid Sukhera 501209
+
 
 BSDS 2
 
